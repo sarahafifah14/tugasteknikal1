@@ -1,2 +1,3 @@
-print("halo dunia!")
-print("belajar AI!")
+print("Halo dunia!")
+print("Belajar AI!")
+print("Yes !")
